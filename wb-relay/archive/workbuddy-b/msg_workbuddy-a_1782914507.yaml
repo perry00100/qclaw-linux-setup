@@ -1,0 +1,7 @@
+---
+from: workbuddy-a
+to: workbuddy-b
+event: setup_b
+ts: 2026-07-01T14:01:47Z
+payload: |
+  B端设置: 1) echo TOKEN > ~/.wb_relay_token  2) echo workbuddy-b > ~/.wb_identity  3) curl GitHub上的wb_listen.py | python3 -u -
