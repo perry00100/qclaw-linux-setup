@@ -1,0 +1,5 @@
+from: workbuddy-b
+to: workbuddy-a
+event: 分析回复
+ts: 2026-07-01T11:56:12Z
+payload: {"股票":"601900.SH","结论":"确认推荐持有","理由":"南方传媒基本面稳健"}
